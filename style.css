@@ -1,0 +1,41 @@
+body {
+  background-color: #ced4da; 
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2{
+  color: black;
+  text-align: left;
+  font-size: 30px;
+}
+
+ p{
+  font-size: 20px;
+}
+
+h3{
+  color: black;
+  text-align: left;
+  font-size: 30px;
+}
+
+ul{
+  font-size: 20px;
+}
+
+h4 {
+  color: black;
+  text-align: left;
+  font-size: 30px;
+}
+
+.center-img {
+  max-width: 100%;   
+  display: block;   
+  margin: 0 auto; 
+}
